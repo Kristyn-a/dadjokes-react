@@ -32,7 +32,7 @@ export const HomePage = () => {
             }}
           ></button>
           <span id="likes-up" className="likes-count likes-count--up">
-            0
+            {upLikes}
           </span>
           <button
             id="btn-down"
@@ -42,7 +42,7 @@ export const HomePage = () => {
             }}
           ></button>
           <span id="likes-down" className="likes-count likes-count--down">
-            0
+            {downLikes}
           </span>
         </div>
       </div>
