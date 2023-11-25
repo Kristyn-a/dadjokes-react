@@ -14,7 +14,7 @@ export const HomePage = () => {
               className="user-avatar"
               src="https://raw.githubusercontent.com/Czechitas-podklady-WEB/dadjokes/main/users/user03.png"
             />
-            <p className="user-name">Mira</p>
+            <p className="user-name">Oracimaru</p>
           </div>
 
           <p className="joke__text">
